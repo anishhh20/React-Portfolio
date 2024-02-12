@@ -3,7 +3,7 @@
   <a href="https://anishhh20.github.io/react-portfolio/" target="_blank">anishhh20</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./src/assests/work1.png" />
+  <img alt="Demo" src="./src/assests/work2.png" />
 </div>
 
 <br/>
