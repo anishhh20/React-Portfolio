@@ -43,7 +43,7 @@ const Info = () => {
             <div className="about__box" data-aos="zoom-in">
                 <i className='bx bx-award about__icon' ></i>
                 <h3 className="about__title">Experience</h3>
-                <span className="about__subtitle">{inView  ? <CountUp start={0} end= {1} duration={5} /> : null} year</span>
+                <span className="about__subtitle">{inView  ? <CountUp start={0} end= {1} duration={5} /> : null}+  year</span>
             </div>
           </Tilt>
 
